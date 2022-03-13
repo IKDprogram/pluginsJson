@@ -286,4 +286,57 @@
     "Punchline": "Condenses combos and mutually exclusive abilities onto a single button. Plus extras.",
     "RepoUrl": "https://github.com/captainbinary/XIVComboPluginKamified"
   },
+  {
+    "Author": "Liza Carvelli",
+    "Name": "Slice is Right",
+    "InternalName": "SliceIsRight",
+    "AssemblyVersion": "3.0",
+    "Description": "Shows where Bamboo falls.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/carvelli/Slice-Is-Right",
+    "Tags": [
+      "gold saucer",
+      "yojimbo"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "Punchline": "Shows where Bamboo falls.",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/carvelli/Dalamud-Plugins/master/dist/SliceIsRight/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/carvelli/Dalamud-Plugins/master/dist/SliceIsRight/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/carvelli/Dalamud-Plugins/master/dist/SliceIsRight/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdated": "1639648053"
+  },
+  {
+    "Author": "a08381",
+    "Name": "SkipCutscene",
+    "InternalName": "SkipCutscene",
+    "AssemblyVersion": "1.2.0.2",
+    "Description": "This plugin can help you skip cutscene from\nthese instances.\n\nCastrum Meridianum\nThe Praetorium",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/a08381/Dalamud.SkipCutscene",
+    "DalamudApiLevel": 5,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/AsterOcclu/Dalamud.SkipCutscene/releases/download/v1.2.0.2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/AsterOcclu/Dalamud.SkipCutscene/releases/download/v1.2.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AsterOcclu/Dalamud.SkipCutscene/releases/download/v1.2.0.2/latest.zip"
+  },
+  {
+    "Author": "Judisch",
+    "Name": "FastPraetorium",
+    "Punchline": "Get through The Praetorium 76 seconds faster",
+    "Description": "Automatically changes the game's cutscene audio language during The Praetorium",
+    "Tags": [ "Other" ],
+    "InternalName": "FastPraetorium",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/Judisch/FastPraetorium",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "ImageUrls": [ ],
+    "IconUrl": ""
+  },
 ]
