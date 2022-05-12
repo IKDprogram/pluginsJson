@@ -210,29 +210,24 @@
     "LastUpdate": "1650989443"
   },
   {
-    "Author": "ikd",
-    "Name": "SomethingNeedDoing",
-    "Punchline": "SomethingNeedDoing Plugin",
-    "Description": "Macro Plugin",
-    "Changelog": "",
-    "InternalName": "SomethingNeedDoing",
-    "AssemblyVersion": "0.0.0.1",
-    "RepoUrl": "https://github.com/marimelon/SomethingNeedDoing",
-    "ApplicableVersion": "any",
-    "CategoryTags": [
-      "utility"
-    ],
-    "DalamudApiLevel": 6,
-    "IconUrl": "",
-    "ImageUrls": [
-      ""
-    ],
-    "DownloadLinkInstall": "https://github.com/marimelon/SomethingNeedDoing/archive/refs/heads/master.zip",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/marimelon/SomethingNeedDoing/archive/refs/heads/master.zip",
-    "DownloadLinkUpdate": "https://github.com/marimelon/SomethingNeedDoing/archive/refs/heads/master.zip",
-    "DownloadCount": 0,
-    "LastUpdate": "0"
-  },
+        "Author": "daemitus",
+        "Name": "Something Need Doing 6.05 CN",
+        "Punchline": "Work work.",
+        "Description": "A hard-working peon that crafts what you tell him to. An all-in-one sythesizing solution.",
+        "InternalName": "SomethingNeedDoing",
+        "AssemblyVersion": "1.2.4.4",
+        "RepoUrl": "https://github.com/daemitus/SomethingNeedDoing",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "LoadPriority": 0,
+        "IconUrl": "https://github.com/daemitus/SomethingNeedDoing/raw/master/res/icon.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1651437954"
+    },
 ]
