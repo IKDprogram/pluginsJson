@@ -21,7 +21,7 @@
     "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/EasyZoom/latest.zip",
     "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/EasyZoom/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1643611146"
+    "LastUpdated": "1651304833"
   },
   {
     "Author": "UnknownX",
@@ -210,27 +210,29 @@
     "LastUpdate": "1650989443"
   },
   {
-    "Author": "Aki, k-kz, ele-starshade, damolitionn, Taurenkey, Augporto, grimgal",
-    "Name": "XIVSlothCombo",
-    "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-    "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-    "Changelog": "Features, Fixes & Enhancements for Framework, ALL, AST, BLU, MCHPvP, RDM, SCH and SGE. Please check the project's GitHub or Discord for a full changelog.",
-    "InternalName": "XIVSlothCombo",
-    "AssemblyVersion": "3.0.12.1",
-    "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
+    "Author": "ikd",
+    "Name": "SomethingNeedDoing",
+    "Punchline": "SomethingNeedDoing Plugin",
+    "Description": "Macro Plugin",
+    "Changelog": "",
+    "InternalName": "SomethingNeedDoing",
+    "AssemblyVersion": "0.0.0.1",
+    "RepoUrl": "https://github.com/marimelon/SomethingNeedDoing",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "IconUrl": "https://i.imgur.com/UeRukF8.png",
-    "ImageUrls": [
-      "https://i.imgur.com/UeRukF8.png"
+    "CategoryTags": [
+      "utility"
     ],
-    "DownloadLinkInstall": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
+    "DalamudApiLevel": 6,
+    "IconUrl": "",
+    "ImageUrls": [
+      ""
+    ],
+    "DownloadLinkInstall": "https://github.com/marimelon/SomethingNeedDoing/archive/refs/heads/master.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
+    "DownloadLinkTesting": "https://github.com/marimelon/SomethingNeedDoing/archive/refs/heads/master.zip",
+    "DownloadLinkUpdate": "https://github.com/marimelon/SomethingNeedDoing/archive/refs/heads/master.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1650908358"
+    "LastUpdate": "0"
   },
 ]
