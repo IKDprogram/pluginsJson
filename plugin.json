@@ -231,25 +231,21 @@
     "LastUpdate": "1651437954"
   },
   {
-    "Author": "Liza Carvelli",
-    "Name": "Slice is Right",
-    "InternalName": "SliceIsRight",
-    "AssemblyVersion": "3.0",
-    "Description": "Shows where Bamboo falls.",
+    "Author": "XiYu",
+    "Name": "ChopBamboo",
+    "Description": "A plugin to get the skill range in The Slice is Right",
+    "InternalName": "ChopBamboo",
+    "AssemblyVersion": "1.0.1.0",
+    "RepoUrl": "",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/carvelli/Slice-Is-Right",
-    "Tags": [
-      "gold saucer",
-      "yojimbo"
-    ],
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "Punchline": "Shows where Bamboo falls.",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/carvelli/Dalamud-Plugins/master/dist/SliceIsRight/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/carvelli/Dalamud-Plugins/master/dist/SliceIsRight/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/carvelli/Dalamud-Plugins/master/dist/SliceIsRight/latest.zip",
+    "Tags": [ "Gold Saucer", "Slice is Right", "Xiyu" ],
+    "DalamudApiLevel": 3,
+    "DownloadLinkInstall": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/ChopBamboo/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": "1639648053"
+    "DownloadLinkTesting": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/ChopBamboo/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/ChopBamboo/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdated": "1618843697"
   },
 ]
