@@ -229,32 +229,5 @@
     "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
     "DownloadCount": 0,
     "LastUpdate": "1651437954"
-  },
-  {
-    "Author": "Liza Carvelli",
-    "Name": "Slice is Right",
-    "InternalName": "SliceIsRight",
-    "AssemblyVersion": "3.0",
-    "Description": "Shows where Bamboo falls.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/carvelli/Slice-Is-Right",
-    "Tags": [
-      "gold saucer",
-      "yojimbo"
-    ],
-    "IconUrl": "https://i.imgur.com/UeRukF8.png",
-    "ImageUrls": [
-      "https://i.imgur.com/UeRukF8.png"
-    ],
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "Punchline": "Shows where Bamboo falls.",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/carvelli/Dalamud-Plugins/master/dist/SliceIsRight/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/carvelli/Dalamud-Plugins/master/dist/SliceIsRight/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/carvelli/Dalamud-Plugins/master/dist/SliceIsRight/latest.zip",
-    "DownloadLinkInstall": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "LastUpdated": "1639648053"
   }
 ]
