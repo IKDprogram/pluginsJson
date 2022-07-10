@@ -1,29 +1,5 @@
 [
   {
-    "Author": "akira0245",
-    "Name": "EasyZoom",
-    "Punchline": "Easy zoom distance unlock and fov control.",
-    "Description": "\u89e3\u9501\u5e76\u8c03\u6574\u89c6\u8ddd\u548c\u89c6\u89d2\u3002\nEasy zoom distance unlock and fov control.",
-    "InternalName": "EasyZoom",
-    "AssemblyVersion": "1.1.0.1",
-    "RepoUrl": "",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "cam",
-      "fov",
-      "akira"
-    ],
-    "DalamudApiLevel": 6,
-    "IconUrl": "https://i.loli.net/2021/09/24/grlXmGbBLpADZVi.png",
-    "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/EasyZoom/latest.zip",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/EasyZoom/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/EasyZoom/latest.zip",
-    "DownloadCount": 0,
-    "LastUpdated": "1651304833"
-  },
-  {
     "Author": "UnknownX",
     "Name": "Cammy",
     "Punchline": "A simple editor for the game's camera settings",
