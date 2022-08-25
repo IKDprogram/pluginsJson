@@ -6,13 +6,13 @@
     "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoomhack, if you aren't comfortable with that fact, don't install it.",
     "Changelog": "",
     "InternalName": "Cammy",
-    "AssemblyVersion": "2.0.3.2",
+    "AssemblyVersion": "2.0.3.4",
     "RepoUrl": "https://github.com/UnknownX7/Cammy",
     "ApplicableVersion": "any",
     "CategoryTags": [
       "utility"
     ],
-    "DalamudApiLevel": 6,
+    "DalamudApiLevel": 7,
     "IconUrl": "",
     "ImageUrls": [
       ""
@@ -23,7 +23,7 @@
     "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1650989443"
+    "LastUpdate": "1661390827"
   },
   {
     "Author": "Eternita",
@@ -95,7 +95,7 @@
     "Punchline": "Clicks Yes in various dialogs you've specified.",
     "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
     "InternalName": "YesAlready",
-    "AssemblyVersion": "1.2.1.1",
+    "AssemblyVersion": "1.2.2.1",
     "RepoUrl": "https://github.com/daemitus/YesAlready",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
@@ -108,7 +108,7 @@
     "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
     "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1650940625"
+    "LastUpdate": "1661293822"
   },
   {
     "Author": "Aulus mal Asina",
@@ -134,10 +134,10 @@
     "Author": "Aireil",
     "Name": "FF Logs Viewer",
     "Punchline": "View FF Logs ranking percentiles in-game.",
-    "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs.",
-    "Changelog": "- 2.0.3.0: Add all stars points/rank/rank% stats + number of decimal digits setting.\n- 2.0.3.1: Add DSR to default layout + fix all star bug with fresh log.\n- 2.0.4.0: Enable context menu button again.",
+    "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
+    "Changelog": "- 2.0.6.0:\n   Preliminary 6.2 update\n   Fix a bug where an incorrect encounter would be displayed if it is from the same zone. If you added a DSR entry early, you may need to re-add it, because FF Logs changed the encounter id.\n   API 7 update\n- 2.0.5.0:\n   Add swap groups, allowing you to dynamically change the layout in the main window.\n   Adding encounters in the layout is now easier.\n   Some other minor improvements.",
     "InternalName": "FFLogsViewer",
-    "AssemblyVersion": "2.0.4.0",
+    "AssemblyVersion": "2.0.6.1",
     "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
     "ApplicableVersion": "any",
     "Tags": [
@@ -146,7 +146,7 @@
       "FFLo",
       "FFL"
     ],
-    "DalamudApiLevel": 6,
+    "DalamudApiLevel": 7,
     "IconUrl": "https://github.com/Aireil/FFLogsViewer/raw/master/res/icon.png",
     "ImageUrls": [
       "https://github.com/Aireil/FFLogsViewer/raw/master/res/banner.png"
@@ -157,8 +157,8 @@
     "DownloadLinkTesting": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1650964237"
-  },
+    "LastUpdate": "1661290713"
+  }
   {
     "Author": "UnknownX",
     "Name": "ReAction",
@@ -186,31 +186,10 @@
     "LastUpdate": "1650989443"
   },
   {
-    "Author": "daemitus",
-    "Name": "Something Need Doing 6.05 CN",
-    "Punchline": "Work work.",
-    "Description": "A hard-working peon that crafts what you tell him to. An all-in-one sythesizing solution.",
-    "InternalName": "SomethingNeedDoing",
-    "AssemblyVersion": "1.2.4.4",
-    "RepoUrl": "https://github.com/daemitus/SomethingNeedDoing",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "IconUrl": "https://github.com/daemitus/SomethingNeedDoing/raw/master/res/icon.png",
-    "ImageUrls": [],
-    "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
-    "DownloadCount": 0,
-    "LastUpdate": "1651437954"
-  },
-  {
     "Author": "Liza Carvelli",
     "Name": "Slice is Right",
     "InternalName": "SliceIsRight",
-    "AssemblyVersion": "3.0",
+    "AssemblyVersion": "4.0",
     "Description": "Shows where Bamboo falls.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/carvelli/Slice-Is-Right",
@@ -218,7 +197,7 @@
       "gold saucer",
       "yojimbo"
     ],
-    "DalamudApiLevel": 6,
+    "DalamudApiLevel": 7,
     "LoadPriority": 0,
     "Punchline": "Shows where Bamboo falls.",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/carvelli/Dalamud-Plugins/master/dist/SliceIsRight/latest.zip",
@@ -226,6 +205,6 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/carvelli/Dalamud-Plugins/master/dist/SliceIsRight/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": "1639648053"
+    "LastUpdated": "1649962087"
   },
 ]
