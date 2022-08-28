@@ -141,15 +141,15 @@
     "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
     "ApplicableVersion": "any",
     "Tags": [
-        "FFLogs",
-        "FFLog",
-        "FFLo",
-        "FFL"
+      "FFLogs",
+      "FFLog",
+      "FFLo",
+      "FFL"
     ],
     "DalamudApiLevel": 7,
     "IconUrl": "https://github.com/Aireil/FFLogsViewer/raw/master/res/icon.png",
     "ImageUrls": [
-        "https://github.com/Aireil/FFLogsViewer/raw/master/res/banner.png"
+      "https://github.com/Aireil/FFLogsViewer/raw/master/res/banner.png"
     ],
     "DownloadLinkInstall": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
     "IsHide": false,
@@ -158,7 +158,7 @@
     "DownloadLinkUpdate": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
     "DownloadCount": 0,
     "LastUpdate": "1661565777"
-}
+  },
   {
     "Author": "UnknownX",
     "Name": "ReAction",
@@ -206,5 +206,5 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "LastUpdated": "1649962087"
-  },
+  }
 ]
