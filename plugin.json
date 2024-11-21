@@ -5,7 +5,7 @@
     "Description": "Move around housing items with coordinates and allows you to place anywhere.",
     "Punchline": "House decorating made easy!",
     "InternalName": "BDTHPlugin",
-    "AssemblyVersion": "1.6.6",
+    "AssemblyVersion": "1.6.8",
     "RepoUrl": "https://github.com/LeonBlade/BDTHPlugin",
     "ApplicableVersion": "any",
     "Tags": [
@@ -17,30 +17,30 @@
       "furnishing",
       "LeonBlade"
     ],
-    "DalamudApiLevel": 10,
+    "DalamudApiLevel": 11,
     "IconUrl": "https://github.com/LeonBlade/BDTHPlugin/raw/main/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1720688557,
-    "DownloadCount": 14323,
-    "DownloadLinkInstall": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.6/BDTHPlugin.zip",
-    "DownloadLinkTesting": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.6/BDTHPlugin.zip",
-    "DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.6/BDTHPlugin.zip"
+    "LastUpdated": 1731890939,
+    "DownloadCount": 13214,
+    "DownloadLinkInstall": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.8/BDTHPlugin.zip",
+    "DownloadLinkTesting": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.8/BDTHPlugin.zip",
+    "DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.8/BDTHPlugin.zip"
   },
   {
         "Author": "Aireil",
         "Name": "FF Logs Viewer",
         "Punchline": "View FF Logs ranking percentiles in-game.",
         "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
-        "Changelog": "-2.1.7.5\n   Update extremes names\n   Fix context menu not working in blacklist and mute list",
+        "Changelog": "-2.2.0.0\n   API 11 + 7.1 update.\n   Update the default layout.\n   Add some background improvements.",
         "InternalName": "FFLogsViewer",
-        "AssemblyVersion": "2.1.7.5",
+        "AssemblyVersion": "2.2.0.0",
         "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
         "ApplicableVersion": "any",
         "Tags": [
             "FFLogs"
         ],
-        "DalamudApiLevel": 10,
+        "DalamudApiLevel": 11,
         "IconUrl": "https://github.com/Aireil/FFLogsViewer/raw/master/res/icon.png",
         "ImageUrls": [
             "https://github.com/Aireil/FFLogsViewer/raw/master/res/image1.png",
@@ -52,6 +52,6 @@
         "DownloadLinkTesting": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1722983044"
+        "LastUpdate": "1731634376"
     }
 ]
